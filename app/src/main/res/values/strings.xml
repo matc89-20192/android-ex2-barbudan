@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">exercicio2</string>
+
+    <!-- MainActivity -->
+    <string name="btn_trocar">Trocar usuário</string>
+    <string name="oi">Oi!</string>
+
+
+    <!-- OutraActivity -->
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="edit_text">Nome do Usuário</string>
+
 </resources>
